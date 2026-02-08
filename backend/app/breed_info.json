@@ -1,0 +1,722 @@
+{
+    "Chihuahua": [
+        "- Tiny and delicate with big eyes",
+        "- Lively, bold, and loyal to their person",
+        "- Needs light exercise and gentle handling",
+        "- Often lives long and loves to snuggle 🐶"
+    ],
+    "Japanese Spaniel": [
+        "- Small, elegant toy dog with a silky coat",
+        "- Calm, affectionate, and a bit dignified",
+        "- Regular brushing keeps their coat neat",
+        "- Often known as the Japanese Chin in some places"
+    ],
+    "Maltese Dog": [
+        "- Small, white, and silky-coated",
+        "- Gentle, playful, and people-focused",
+        "- Daily brushing prevents mats",
+        "- Famous for being a pampered lap dog 🐶"
+    ],
+    "Pekinese": [
+        "- Compact body with a long mane-like coat",
+        "- Stubborn, confident, and very loyal",
+        "- Needs regular grooming and short walks",
+        "- Ancient breed once kept by royalty"
+    ],
+    "Shih Tzu": [
+        "- Small with a flowing double coat",
+        "- Friendly, outgoing, and affectionate",
+        "- Daily grooming or a short clip helps",
+        "- Great companion dogs and love attention 🐶"
+    ],
+    "Blenheim Spaniel": [
+        "- Small spaniel with chestnut and white markings",
+        "- Sweet-natured and people-loving",
+        "- Regular walks and ear care are important",
+        "- Also called the Cavalier type in some circles"
+    ],
+    "Papillon": [
+        "- Tiny with large, butterfly-like ears",
+        "- Cheerful, smart, and energetic",
+        "- Enjoys training and daily play",
+        "- 'Papillon' means butterfly in French 🐶"
+    ],
+    "Toy Terrier": [
+        "- Very small, sleek, and alert",
+        "- Brave, lively, and curious",
+        "- Short coat needs minimal grooming",
+        "- Great for small homes and active laps"
+    ],
+    "Rhodesian Ridgeback": [
+        "- Muscular, medium-large with a ridge of hair on the back",
+        "- Independent, dignified, and loyal",
+        "- Needs regular exercise and mental work",
+        "- Bred to track big game and has a unique ridge"
+    ],
+    "Afghan Hound": [
+        "- Tall, slim, with long silky hair",
+        "- Aloof, elegant, and sometimes independent",
+        "- High grooming needs and enjoys running",
+        "- Known for its glamorous show-dog looks 🐶"
+    ],
+    "Basset": [
+        "- Short-legged with long ears and droopy eyes",
+        "- Gentle, easygoing, and scent-focused",
+        "- Requires ear checks and moderate walks",
+        "- Incredible scent hounds bred for tracking"
+    ],
+    "Beagle": [
+        "- Small to medium with a short coat",
+        "- Friendly, merry, and curious",
+        "- Loves sniffing, needs daily walks and play",
+        "- Famous for its excellent nose and howl 🐶"
+    ],
+    "Bloodhound": [
+        "- Large, loose-skinned with long ears",
+        "- Gentle, patient, and single-minded on a scent",
+        "- Needs space to follow scents and regular grooming",
+        "- World-class scent trackers used in search work"
+    ],
+    "Bluetick": [
+        "- Medium with a blue-speckled coat",
+        "- Spirited, brave, and vocal",
+        "- Energetic and needs active outings",
+        "- Named for its bluish coat pattern"
+    ],
+    "Black And Tan Coonhound": [
+        "- Tall, sleek, with black and tan markings",
+        "- Friendly, determined, and strong-nosed",
+        "- Loves tracking and needs lots of exercise",
+        "- Bred for raccoon hunting and tracking 🐶"
+    ],
+    "Walker Hound": [
+        "- Athletic, medium to large scent hound",
+        "- Energetic, social, and loves being with people",
+        "- Requires daily running and scent work",
+        "- Great for active families who like outdoors"
+    ],
+    "English Foxhound": [
+        "- Sturdy, muscular hunting hound",
+        "- Friendly, pack-oriented, and even-tempered",
+        "- Needs long walks and mental stimulation",
+        "- Bred for traditional fox hunting in packs"
+    ],
+    "Redbone": [
+        "- Smooth red coat, medium-sized and muscular",
+        "- Loyal, even-tempered, and friendly",
+        "- Enjoys hunting work and active play",
+        "- Distinctive warm red color makes them stand out"
+    ],
+    "Borzoi": [
+        "- Tall, graceful with a silky wavy coat",
+        "- Quiet, gentle, and somewhat independent",
+        "- Loves short bursts of running and grooming",
+        "- A sighthound bred for speed and elegance 🐶"
+    ],
+    "Irish Wolfhound": [
+        "- Very large and tall with a wiry coat",
+        "- Calm, dignified, and gentle giant",
+        "- Needs space and moderate exercise",
+        "- One of the tallest dog breeds in the world"
+    ],
+    "Italian Greyhound": [
+        "- Small, slender, and elegant",
+        "- Affectionate, sensitive, and playful",
+        "- Likes short runs and cozy warmth indoors",
+        "- A graceful lap dog that also enjoys speed 🐶"
+    ],
+    "Whippet": [
+        "- Slim, medium-small sighthound",
+        "- Quiet, affectionate, and fast",
+        "- Needs sprinting space and comfy bedding",
+        "- Superb sprinters that adore short races"
+    ],
+    "Ibizan Hound": [
+        "- Tall, elegant with large upright ears",
+        "- Alert, independent, and playful",
+        "- Needs running space and mental challenges",
+        "- Known for their big ears and hunting skill 🐶"
+    ],
+    "Norwegian Elkhound": [
+        "-Medium-sized, sturdy, with a thick gray coat",
+        "-Bold, friendly, and a natural hunter",
+        "-Daily walks and cold-weather hardy grooming",
+        "-Ancient Nordic breed used for hunting elk"
+    ],
+    "Otterhound": [
+        "-Large, shaggy-coated with webbed feet",
+        "-Friendly, playful, and a strong swimmer",
+        "-Needs grooming and access to water play",
+        "-Bred to hunt otters and loves swimming 🐶"
+    ],
+    "Saluki": [
+        "-Graceful, slim sighthound with silky feathering",
+        "-Reserved, gentle, and independent",
+        "-Enjoys running and calm home life",
+        "-One of the oldest domesticated dog breeds"
+    ],
+    "Scottish Deerhound": [
+        "-Tall, rough-coated and elegant",
+        "-Gentle, calm, and affectionate",
+        "-Needs space to run and regular brushing",
+        "-Bred to chase deer and known for grace"
+    ],
+    "Weimaraner": [
+        "-Sleek, silver-gray coat and athletic build",
+        "-Energetic, loyal, and people-oriented",
+        "-Requires lots of exercise and mental work",
+        "-Often called the 'Gray Ghost' for their color 🐶"
+    ],
+    "Staffordshire Bullterrier": [
+        "-Muscular, medium-sized with a short coat",
+        "-Brave, affectionate, and great with families",
+        "-Needs training, socialization, and playtime",
+        "-Loves human company and loyal bonds"
+    ],
+    "American Staffordshire Terrier": [
+        "-Strong, stocky, and agile",
+        "-Confident, loving, and protective",
+        "-Benefits from firm training and daily activity",
+        "-Often affectionate and great with devoted owners"
+    ],
+    "Bedlington Terrier": [
+        "-Unique lamb-like coat and graceful shape",
+        "-Sweet, alert, and sensitive",
+        "-Regular grooming and moderate exercise needed",
+        "-Looks like a little lamb but is a terrier at heart 🐶"
+    ],
+    "Border Terrier": [
+        "-Small, wiry-coated and sturdy",
+        "-Friendly, energetic, and eager to please",
+        "-Enjoys walks, play, and light digging",
+        "-Great countryside companion with a lively spirit"
+    ],
+    "Kerry Blue Terrier": [
+        "-Soft, wavy blue-gray coat medium-sized",
+        "-Confident, playful, and intelligent",
+        "-Regular grooming and activity are important",
+        "-Coat color changes as they grow older"
+    ],
+    "Irish Terrier": [
+        "-Medium, wiry, and solidly built",
+        "-Brave, energetic, and loyal",
+        "-Needs regular exercise and grooming",
+        "-Bold and spirited companion for active owners"
+    ],
+    "Norfolk Terrier": [
+        "-Small, sturdy, with a wiry coat",
+        "-Friendly, fearless, and cheerful",
+        "-Enjoys playtime and short daily walks",
+        "-Big personality in a small package 🐶"
+    ],
+    "Norwich Terrier": [
+        "-Small, compact, with a wiry coat",
+        "-Alert, affectionate, and bold",
+        "-Needs mental stimulation and grooming",
+        "-Good city dogs that love adventure"
+    ],
+    "Yorkshire Terrier": [
+        "-Tiny with long silky hair",
+        "-Feisty, affectionate, and lively",
+        "-Regular brushing or short trims needed",
+        "-Popular lap dog that loves attention 🐶"
+    ],
+    "Wire-Haired Fox Terrier": [
+        "-Medium-small with a distinctive wiry coat",
+        "-Energetic, playful, and curious",
+        "-Needs active play and regular grooming",
+        "-Happy diggers and lively companions"
+    ],
+    "Lakeland Terrier": [
+        "-Small, hardy with a wiry coat",
+        "-Spirited, independent, and clever",
+        "-Needs exercise, play, and grooming",
+        "-Bred for working in tough terrain 🐶"
+    ],
+    "Sealyham Terrier": [
+        "-Low-slung, sturdy, and white-coated",
+        "-Confident, calm, and affectionate",
+        "-Moderate grooming and regular walks",
+        "-Originally used for hunting small game"
+    ],
+    "Airedale": [
+        "-Largest terrier with a dense, wiry coat",
+        "-Smart, independent, and playful",
+        "-Needs training, exercise, and grooming",
+        "-Called the 'King of Terriers' for size"
+    ],
+    "Cairn": [
+        "-Small, rugged with a weather-resistant coat",
+        "-Spirited, friendly, and alert",
+        "-Enjoys walks, play, and occasional brushing",
+        "-Famous as Toto in The Wizard of Oz 🐶"
+    ],
+    "Australian Terrier": [
+        "-Small, sturdy, and rough-coated",
+        "-Lively, brave, and loyal",
+        "-Needs regular exercise and brushing",
+        "-Adaptable and great for active families"
+    ],
+    "Dandie Dinmont": [
+        "-Unique long body with a topknot of hair",
+        "-Loyal, gentle, and a bit stubborn",
+        "-Regular grooming and moderate activity needed",
+        "-Distinctive look makes them unforgettable 🐶"
+    ],
+    "Boston Bull": [
+        "-Compact, short-faced, and muscular",
+        "-Friendly, bright, and affectionate",
+        "-Short walks and minimal grooming",
+        "-Often called the Boston Terrier in many places"
+    ],
+    "Miniature Schnauzer": [
+        "-Small, bearded face and wiry coat",
+        "-Alert, friendly, and obedient",
+        "-Needs regular grooming and lively walks",
+        "-Loves to be part of family activities"
+    ],
+    "Giant Schnauzer": [
+        "-Large, powerful with a dense coat",
+        "-Loyal, protective, and intelligent",
+        "-Needs training, socialization, and daily exercise",
+        "-Excellent guard dogs with a soft side for family"
+    ],
+    "Standard Schnauzer": [
+        "-Medium-sized with a square build and beard",
+        "-Spirited, smart, and dependable",
+        "-Regular grooming and active play required",
+        "-A versatile working and family dog 🐶"
+    ],
+    "Scotch Terrier": [
+        "-Small, tough with a dense wiry coat",
+        "-Independent, loyal, and a bit stubborn",
+        "-Daily walks and grooming to keep coat tidy",
+        "-Brave little dogs with big personalities"
+    ],
+    "Tibetan Terrier": [
+        "-Medium, long-haired and fluffy",
+        "-Affectionate, playful, and gentle",
+        "-Regular brushing and moderate exercise",
+        "-Considered a good luck pet in Tibet 🐶"
+    ],
+    "Silky Terrier": [
+        "-Small, sleek, and silky-coated",
+        "-Energetic, bold, and friendly",
+        "-Needs grooming and daily play",
+        "-Elegant little dogs that love attention"
+    ],
+    "Soft-Coated Wheaten Terrier": [
+        "-Medium, soft, wheaten-colored coat",
+        "-Happy, friendly, and playful",
+        "-Regular brushing and scent-free playtime",
+        "-Known for their single-layer coat and charm"
+    ],
+    "West Highland White Terrier": [
+        "-Small, white, and sturdy",
+        "-Spunky, friendly, and fearless",
+        "-Grooming and regular walks keep them happy",
+        "-Often called 'Westie' and loves attention 🐶"
+    ],
+    "Lhasa": [
+        "-Small, long-haired and regal-looking",
+        "-Independent, affectionate, and calm",
+        "-Daily grooming or trims are needed",
+        "-Sacred companion dogs in Tibetan history"
+    ],
+    "Flat-Coated Retriever": [
+        "-Medium-large with a glossy black or liver coat",
+        "-Outgoing, playful, and eager to please",
+        "-Loves swimming, fetch, and active play",
+        "-Always happy and energetic family dogs 🐶"
+    ],
+    "Curly-Coated Retriever": [
+        "-Large with tight curly waterproof coat",
+        "-Confident, independent, and playful",
+        "-Regular exercise and coat care needed",
+        "-One of the oldest retriever types with a unique coat"
+    ],
+    "Golden Retriever": [
+        "-Medium-large with a golden, water-repellent coat",
+        "-Friendly, gentle, and eager to please",
+        "-Needs daily exercise and regular brushing",
+        "-One of the most popular family dogs 🐶"
+    ],
+    "Labrador Retriever": [
+        "-Strong, athletic, and short-coated",
+        "-Friendly, outgoing, and good-natured",
+        "-Requires daily exercise and mental work",
+        "-Excellent family dogs and working partners"
+    ],
+    "Chesapeake Bay Retriever": [
+        "-Solid, muscular with a dense, oily coat",
+        "-Loyal, brave, and strong-swimming",
+        "-Needs active work and regular exercise",
+        "-Bred for cold-water retrieving and durability 🐶"
+    ],
+    "German Short-Clipped Pointer": [
+        "-Athletic, medium-large, with a short coat",
+        "-Energetic, smart, and eager to hunt",
+        "-Needs vigorous exercise and training",
+        "-Great partner for active outdoor lovers"
+    ],
+    "Vizsla": [
+        "-Lean, rust-colored and graceful",
+        "-Affectionate, energetic, and loyal",
+        "-Requires lots of daily exercise and attention",
+        "-Bonds closely with their families and loves running 🐶"
+    ],
+    "English Setter": [
+        "-Medium-large with a spotted, silky coat",
+        "-Gentle, friendly, and calm",
+        "-Needs regular exercise and coat care",
+        "-Known for their elegant look and steady nose"
+    ],
+    "Irish Setter": [
+        "-Red, silky-coated and graceful",
+        "-Energetic, playful, and friendly",
+        "-Loves running and needs daily activity",
+        "-Beautiful red coats and joyful personalities 🐶"
+    ],
+    "Gordon Setter": [
+        "-Large, black and tan with a silky coat",
+        "-Loyal, steady, and sometimes reserved",
+        "-Needs exercise and regular grooming",
+        "-Talented bird dog with a noble bearing"
+    ],
+    "Brittany Spaniel": [
+        "-Medium, compact, and athletic",
+        "-Energetic, friendly, and eager to please",
+        "-Needs active hunting or play time",
+        "-Great for active families who love outdoors 🐶"
+    ],
+    "Clumber": [
+        "-Large, heavy-set spaniel with a dense coat",
+        "-Calm, gentle, and affectionate",
+        "-Moderate exercise and regular grooming",
+        "-Rare and distinctive with a sweet nature"
+    ],
+    "English Springer": [
+        "-Medium, well-balanced hunting dog",
+        "-Friendly, eager, and energetic",
+        "-Needs exercise, training, and coat care",
+        "-Great at flushing and retrieving game"
+    ],
+    "Welsh Springer Spaniel": [
+        "-Medium, red-and-white with a sturdy build",
+        "-Affectionate, lively, and loyal",
+        "-Enjoys walks, play, and grooming",
+        "-Known for warm colors and friendly nature 🐶"
+    ],
+    "Cocker Spaniel": [
+        "-Compact with soft, flowing ears and coat",
+        "-Sweet-natured, playful, and affectionate",
+        "-Needs regular brushing and moderate exercise",
+        "-Loved for their expressive eyes and charm"
+    ],
+    "Sussex Spaniel": [
+        "-Low, long-bodied with a golden liver coat",
+        "-Calm, loyal, and good-natured",
+        "-Daily walks and coat care keep them happy",
+        "-A quiet hunter with a gentle temperament"
+    ],
+    "Irish Water Spaniel": [
+        "-Medium-large, curly-coated and sturdy",
+        "-Playful, smart, and loves water",
+        "-Coat needs care and loves swimming",
+        "-One of the best water-loving retrievers 🐶"
+    ],
+    "Kuvasz": [
+        "-Large, white and powerful guardian dog",
+        "-Protective, loyal, and independent",
+        "-Needs space, training, and regular grooming",
+        "-Traditionally used to guard flocks and homes"
+    ],
+    "Schipperke": [
+        "-Small, black, fox-like and lively",
+        "-Curious, bold, and watchful",
+        "-Short walks and regular brushing",
+        "-Known as little boat dogs and bold watchdogs 🐶"
+    ],
+    "Groenendael": [
+        "-Black, long-coated, and elegant Belgian shepherd",
+        "-Alert, loyal, and highly trainable",
+        "-Needs regular exercise and mental work",
+        "-One variety of the Belgian Shepherd family"
+    ],
+    "Malinois": [
+        "-Medium-large, short-coated, very athletic",
+        "-Intense, trainable, and devoted",
+        "-Requires lots of mental and physical activity",
+        "-Often used in police and working roles 🐶"
+    ],
+    "Briard": [
+        "-Large, long-haired and shaggy",
+        "-Loyal, protective, and playful",
+        "-Needs grooming and regular exercise",
+        "-History as a herding and guardian dog"
+    ],
+    "Kelpie": [
+        "-Medium, athletic, and short-coated",
+        "-Energetic, intelligent, and hardworking",
+        "-Thrives on herding work and lots of play",
+        "-Aussie working dog famous for stamina 🐶"
+    ],
+    "Komondor": [
+        "-Large with a unique corded white coat",
+        "-Protective, calm, and independent",
+        "-Coat needs special care and space to roam",
+        "-Coat resembles dreadlocks and protects them"
+    ],
+    "Old English Sheepdog": [
+        "-Large, shaggy, and bear-like in appearance",
+        "-Playful, gentle, and affectionate",
+        "-Heavy grooming and daily exercise needed",
+        "-Famous for their big coat and friendly nature 🐶"
+    ],
+    "Shetland Sheepdog": [
+        "-Small, elegant, with a long double coat",
+        "-Intelligent, eager, and very loyal",
+        "-Needs brushing and mental activities",
+        "-Great at herding and dog sports"
+    ],
+    "Collie": [
+        "-Medium, long-coated and graceful",
+        "-Loyal, gentle, and good with families",
+        "-Regular brushing and daily walks",
+        "-Famous as the classic family herding dog 🐶"
+    ],
+    "Border Collie": [
+        "-Medium, athletic with keen eyes",
+        "-Highly intelligent, energetic, and focused",
+        "-Needs lots of work, play, and training",
+        "-Top choice for dog sports and herding tasks"
+    ],
+    "Bouvier Des Flandres": [
+        "-Large, sturdy, with a rough coat",
+        "-Calm, strong, and protective",
+        "-Grooming and firm training needed",
+        "-Versatile farm and working dog with a tough coat"
+    ],
+    "Rottweiler": [
+        "-Large, powerful, and short-coated",
+        "-Confident, loyal, and protective",
+        "-Needs training, socialization, and exercise",
+        "-Devoted family guardian with a gentle side"
+    ],
+    "German Shepherd": [
+        "-Large, athletic, and well-muscled",
+        "-Intelligent, loyal, and versatile",
+        "-Requires mental work and regular exercise",
+        "-One of the most trusted working breeds 🐶"
+    ],
+    "Doberman": [
+        "-Sleek, muscular, and elegant",
+        "-Alert, loyal, and protective",
+        "-Needs training, exercise, and mental challenge",
+        "-Known for loyalty and strong guarding instincts"
+    ],
+    "Miniature Pinscher": [
+        "-Small, sleek, and confident",
+        "-Lively, fearless, and spirited",
+        "-Short walks and basic grooming are enough",
+        "-Often called the 'King of Toys' for attitude 🐶"
+    ],
+    "Greater Swiss Mountain Dog": [
+        "-Large, strong, tricolored and sturdy",
+        "-Friendly, calm, and hardworking",
+        "-Needs space, walks, and minimal grooming",
+        "-A gentle giant good for family life"
+    ],
+    "Bernese Mountain Dog": [
+        "-Large, fluffy tricolor with a calm build",
+        "-Gentle, affectionate, and loyal",
+        "-Needs moderate exercise and regular brushing",
+        "-Great with families and likes cool weather 🐶"
+    ],
+    "Appenzeller": [
+        "-Medium-large, strong, and tricolored",
+        "-Energetic, clever, and protective",
+        "-Needs outdoor activity and training",
+        "-A Swiss farm dog with lots of stamina"
+    ],
+    "Entlebucher": [
+        "-Smallest Swiss mountain dog, sturdy and agile",
+        "-Lively, smart, and devoted",
+        "-Requires exercise and consistent training",
+        "-Great working dog known for agility 🐶"
+    ],
+    "Boxer": [
+        "-Medium-large, muscular with a square muzzle",
+        "-Playful, loyal, and energetic",
+        "-Needs daily exercise and interaction",
+        "-Bouncy family dogs that love to play"
+    ],
+    "Bull Mastiff": [
+        "-Large, powerful, with a short coat",
+        "-Calm, protective, and devoted",
+        "-Needs firm training and moderate exercise",
+        "-Excellent guard dogs with gentle family side"
+    ],
+    "Tibetan Mastiff": [
+        "-Very large, heavy coat and imposing look",
+        "-Independent, protective, and calm",
+        "-Space, strong training, and grooming needed",
+        "-Ancient guardian dog from the Himalayas 🐶"
+    ],
+    "French Bulldog": [
+        "-Small, compact with bat-like ears",
+        "-Affectionate, playful, and easygoing",
+        "-Short walks and minimal grooming",
+        "-Very popular city companion that loves cuddles"
+    ],
+    "Great Dane": [
+        "-Very large, elegant, and powerful",
+        "-Gentle, friendly, and people-loving",
+        "-Needs space, gentle exercise, and short walks",
+        "-Known as gentle giants and great with kids 🐶"
+    ],
+    "Saint Bernard": [
+        "-Very large, thick-coated and strong",
+        "-Patient, gentle, and friendly",
+        "-Needs space, grooming, and moderate activity",
+        "-Famous rescue dogs in snowy mountain areas"
+    ],
+    "Eskimo Dog": [
+        "-Medium to large with thick white coat",
+        "-Friendly, alert, and energetic",
+        "-Enjoys cold weather and lots of exercise",
+        "-Often used as sled and working dogs 🐶"
+    ],
+    "Alaskan Malamute": [
+        "-Large, powerful, and heavily built",
+        "-Friendly, strong, and social",
+        "-Needs lots of exercise and cool temps",
+        "-Bred for heavy hauling and endurance"
+    ],
+    "Siberian Husky": [
+        "-Medium, thick double coat and striking eyes",
+        "-Friendly, energetic, and independent",
+        "-Loves running, social packs, and cold weather",
+        "-Famous sled dogs with a playful spirit 🐶"
+    ],
+    "Affenpinscher": [
+        "-Small, sturdy, with a curious face",
+        "-Playful, bold, and slightly mischievous",
+        "-Regular grooming and play sessions",
+        "-Name means 'monkey-like' for their expressions"
+    ],
+    "Basenji": [
+        "-Small, sleek, and tightly curled tail",
+        "-Independent, alert, and quiet (rarely barks)",
+        "-Active, needs mental challenge and short runs",
+        "-Known as the 'barkless dog' though they make sounds 🐶"
+    ],
+    "Pug": [
+        "-Small, wrinkled face and big round eyes",
+        "-Charming, loving, and playful",
+        "-Short walks and easy grooming; watch for heat",
+        "-Famous for funny expressions and affectionate nature"
+    ],
+    "Leonberg": [
+        "-Very large, lion-like mane and gentle eyes",
+        "-Calm, friendly, and family-oriented",
+        "-Needs grooming, space, and regular exercise",
+        "-Looks like a small lion and loves people 🐶"
+    ],
+    "Newfoundland": [
+        "-Huge, thick-coated, and strong swimmer",
+        "-Gentle, sweet, and protective of family",
+        "-Loves water, needs grooming and space",
+        "-Famous as lifesaving water rescue dogs"
+    ],
+    "Great Pyrenees": [
+        "-Large, white and fluffy with a majestic look",
+        "-Calm, patient, and protective",
+        "-Needs space, moderate exercise, and grooming",
+        "-Traditionally used to guard flocks in mountains 🐶"
+    ],
+    "Samoyed": [
+        "-Fluffy white coat and a smiling face",
+        "-Friendly, gentle, and playful",
+        "-Heavy grooming and lots of exercise needed",
+        "-Known for their 'Sammy smile' and sled work"
+    ],
+    "Pomeranian": [
+        "-Tiny, fluffy, and fox-like",
+        "-Lively, bold, and affectionate",
+        "-Regular brushing and short walks",
+        "-Big personality in a small, fluffy body 🐶"
+    ],
+    "Chow": [
+        "-Sturdy, fluffy mane-like coat and blue-black tongue",
+        "-Independent, loyal, and reserved",
+        "-Regular grooming and early socialization needed",
+        "-Ancient breed from China with a unique look"
+    ],
+    "Keeshond": [
+        "-Medium, plush double coat and fox-like face",
+        "-Friendly, alert, and very people-oriented",
+        "-Daily brushing and mental stimulation",
+        "-Popular companion known for expressive markings 🐶"
+    ],
+    "Brabancon Griffon": [
+        "-Small, rough-coated with a comical face",
+        "-Affectionate, curious, and bold",
+        "-Light grooming and daily play",
+        "-Often called the Brussels Griffon in some places"
+    ],
+    "Pembroke": [
+        "-Small to medium, short-backed and lively",
+        "-Friendly, bold, and affectionate",
+        "-Needs walks and regular play",
+        "-Often refers to the Pembroke Welsh Corgi, a herding favorite 🐶"
+    ],
+    "Cardigan": [
+        "-Long-backed, sturdy with large ears",
+        "-Devoted, calm, and adaptable",
+        "-Daily walks and moderate grooming",
+        "-Cardigan Welsh Corgis have a tail and ancient roots"
+    ],
+    "Toy Poodle": [
+        "-Tiny, curly-coated and elegant",
+        "-Intelligent, lively, and people-loving",
+        "-Regular grooming and mental games",
+        "-Highly trainable and great for small spaces 🐶"
+    ],
+    "Miniature Poodle": [
+        "-Small, curly coat and poised stance",
+        "-Smart, active, and affectionate",
+        "-Frequent grooming and daily activity",
+        "-Excellent at tricks and dog sports"
+    ],
+    "Standard Poodle": [
+        "-Medium-large, elegant, and curly-coated",
+        "-Intelligent, proud, and trainable",
+        "-Needs grooming and mental exercise",
+        "-One of the smartest dog breeds and very versatile 🐶"
+    ],
+    "Mexican Hairless": [
+        "-Small to medium, often hairless or patchy",
+        "-Affectionate, alert, and playful",
+        "-Skin care and sun protection are important",
+        "-Known as Xoloitzcuintli with ancient cultural roots"
+    ],
+    "Dingo": [
+        "-Medium, lean wild-looking dog",
+        "-Independent, cautious, and resourceful",
+        "-Needs room to roam and minimal grooming",
+        "-Wild dog native to Australia with ancient ancestry 🐶"
+    ],
+    "Dhole": [
+        "-Medium, compact and reddish-coated wild dog",
+        "-Social, highly cooperative in packs",
+        "-Wild species that needs large natural ranges",
+        "-Also called the Asiatic wild dog with strong pack bonds"
+    ],
+    "African Hunting Dog": [
+        "-Slim, long-legged with mottled coat",
+        "-Highly social, energetic, and cooperative",
+        "-Wild species needing vast space and pack life",
+        "-Famous for pack hunting and unique large ears 🐶"
+    ]
+}

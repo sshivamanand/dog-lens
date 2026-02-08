@@ -1,0 +1,60 @@
+# =========================
+# General
+# =========================
+.DS_Store
+.env
+.env.*
+*.log
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# =========================
+# Python / Backend
+# =========================
+venv/
+.venv/
+env/
+backend/.env
+backend/__pycache__/
+backend/**/*.pyc
+backend/**/*.pyo
+backend/**/*.pyd
+
+# TensorFlow / ML artifacts
+*.h5
+*.ckpt
+*.pb
+saved_model/
+backend/models/data/
+backend/models/exported_model/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# =========================
+# Node / Frontend
+# =========================
+node_modules/
+frontend/node_modules/
+frontend/.env
+frontend/dist/
+frontend/build/
+
+# Vite / React
+frontend/.vite/
+frontend/.eslintcache
+
+# =========================
+# OS / Editor
+# =========================
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# =========================
+# Docker
+# =========================
+*.dockerignore
