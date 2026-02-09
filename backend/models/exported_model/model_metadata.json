@@ -1,0 +1,1 @@
+{"img_size": [224, 224], "num_classes": 120, "preprocessing": "tf.keras.applications.efficientnet.preprocess_input", "architecture": "EfficientNetB0 (transfer learning)"}
