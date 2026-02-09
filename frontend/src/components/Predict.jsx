@@ -12,7 +12,7 @@ export default function Predict() {
   const [error, setError] = useState(null)
   const [displayedInfo, setDisplayedInfo] = useState([])
   const fileInputRef = useRef(null)
-  const API_URL = import.meta.env.VITE_API_URL
+  const API_URL = import.meta.env.VITE_API_BASE_URL
 
   const handleFileSelect = (e) => {
     const file = e.target.files?.[0]
