@@ -4,8 +4,8 @@
 
 DogLens is a full-stack machine learning web application that predicts the breed of a dog from an uploaded image. It uses a deep learning model trained on a large dog breed dataset and provides a clean, interactive user experience with real-time predictions.
 
-[![Live Demo](https://dog-lens.vercel.app/)
-[![Backend API](https://dog-lens.onrender.com)
+[Live Demo](https://dog-lens.vercel.app/)
+[Backend API](https://dog-lens.onrender.com)
 
 ---
 
