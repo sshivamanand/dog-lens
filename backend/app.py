@@ -1,8 +1,8 @@
 from fastapi import FastAPI, UploadFile, File, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
-from app.preprocessing import preprocess_image
-from app.model import predict_breed
-from app.schemas import PredictionResponse
+from preprocessing import preprocess_image
+from model import predict_breed
+from schemas import PredictionResponse
 from dotenv import load_dotenv
 import os
 

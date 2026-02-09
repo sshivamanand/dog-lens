@@ -1,6 +1,6 @@
 import tensorflow as tf
 import numpy as np
-from app.breed_info import get_breed_info
+from breed_info import get_breed_info
 import json
 import os
 
