@@ -56,8 +56,18 @@ DogLens is a full-stack machine learning web application that predicts the breed
 
 ---
 
-## System Architecture
+## Performance Metrics
 
+| Metric | Value |
+|------|------|
+| Dataset Size | 20,000+ labeled dog images |
+| Number of Classes | 120 breeds |
+| Inference Latency | <100ms per image (CPU) |
+| Input Resolution | 224 × 224 |
+| Model Type | EfficientNetB0 Transfer Learning |
+| Deployment | FastAPI (Render) + React (Vercel) |
+
+The model is optimized for real-time inference and production deployment using FastAPI.
 
 ---
 
